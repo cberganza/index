@@ -5,8 +5,9 @@ html {
 	background-color:white;
 }	
 body {
-	background: url("assets/images/cover.png") center center no-repeat;
+	background: url(../images/cover.png) top center no-repeat;
 	background-size: cover;
+	background-attachment: fixed;
 	margin:0;
 	padding:0;
 }
@@ -15,7 +16,7 @@ a:link {
 	text-decoration:none;
 }
 a:visited {
-	color:black;
+	color:#808080;
 }
 a:hover {
 	color:#b73026;
