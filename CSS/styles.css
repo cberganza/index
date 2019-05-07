@@ -5,9 +5,6 @@ html {
 	background-color:white;
 }	
 body {
-	background: url(../images/cover.png) top center no-repeat;
-	background-size: cover;
-	background-attachment: fixed;
 	margin:0;
 	padding:0;
 }
